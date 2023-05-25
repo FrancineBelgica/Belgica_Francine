@@ -17,6 +17,11 @@
   background-color: white !important;
 }
 
+[data-theme="dark"] .mobil-menu {
+  /* background-color: #FF6CD6 !important; */
+  background: -webkit-linear-gradient(#FF7686, #D72F93);
+}
+
 [data-theme="dark"] .bg-black {
   background-color: #ffffff !important;
 }
@@ -31,4 +36,7 @@
 
 [data-theme="dark"] .bg-white {
   background-color: #041E44 !important;
+}
+[data-theme="dark"] .bg-carousel {
+  background-color: #1d3457 !important;
 }
